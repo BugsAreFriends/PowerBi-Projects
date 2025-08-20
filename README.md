@@ -3,17 +3,17 @@
 This repository contains a sports product sales data visualization project using Power BI. 
 
 ## Table of content
- - [Introduction](https://github.com/BugsAreFriends/Power-BI-sports-product-sales-analysis/blob/main/README.md#Introduction)
- - [Goal](https://github.com/BugsAreFriends/Power-BI-sports-product-sales-analysis/blob/main/README.md#Goal)
- - [Project overview](https://github.com/BugsAreFriends/Power-BI-sports-product-sales-analysis/blob/main/README.md#Project-Overview)
- - [Dependencies](https://github.com/BugsAreFriends/Power-BI-sports-product-sales-analysis/blob/main/README.md#Dependencies)
- - [Technical skills](https://github.com/BugsAreFriends/Power-BI-sports-product-sales-analysis/blob/main/README.md#Technical-skills)
- - [Dataset](https://github.com/BugsAreFriends/Power-BI-sports-product-sales-analysis/blob/main/README.md#Data-set)
- - [Data loading](https://github.com/BugsAreFriends/Power-BI-sports-product-sales-analysis/blob/main/README.md#Data-loading)
- - [Data cleaning](https://github.com/BugsAreFriends/Power-BI-sports-product-sales-analysis/blob/main/README.md#Data-cleaning)
- - [Data modeling](https://github.com/BugsAreFriends/Power-BI-sports-product-sales-analysis/blob/main/README.md#Data-exploration)
- - [Data analysis](https://github.com/BugsAreFriends/Power-BI-sports-product-sales-analysis/blob/main/README.md#Data-visualization)
- - [Data visualization](https://github.com/BugsAreFriends/Power-BI-sports-product-sales-analysis/blob/main/README.md#Insights)
+ - [Introduction](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#introduction)
+ - [Goal](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#goal)
+ - [Project overview](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#project-overview)
+ - [Dependencies](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#dependencies)
+ - [Technical skills](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#Technical-skills)
+ - [Dataset](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#Data-set)
+ - [Data loading](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#Data-loading)
+ - [Data cleaning](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#Data-cleaning)
+ - [Data modeling](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#Data-exploration)
+ - [Data analysis](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#Data-visualization)
+ - [Data visualization](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#Insights)
 
 ## Introduction
 
