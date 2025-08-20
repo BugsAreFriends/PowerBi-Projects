@@ -4,9 +4,9 @@ This repository contains a sports product sales data visualization project using
 
 ## Table of content
  - [Introduction](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#introduction)
- - [Goal](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#goal)
- - [Project overview](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#project-overview)
- - [Dependencies](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#dependencies)
+ - [Goal](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#Goal)
+ - [Project overview](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#Project-Overview)
+ - [Dependencies](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#Dependencies)
  - [Technical skills](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#Technical-skills)
  - [Dataset](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#Data-set)
  - [Data loading](https://github.com/BugsAreFriends/PowerBi-Projects/blob/main/README.md#Data-loading)
